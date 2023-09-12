@@ -1,0 +1,20 @@
+.LUANA {
+    text-align: center;
+
+}
+.LINK {
+ 
+    background-color:  yellow;
+    padding: 7.5px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
+body{
+background-color: palegreen;  
+text-align: center;
+}
+a:hover{
+    background-color: white;
+    border-radius: 10px;
+}
